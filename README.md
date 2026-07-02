@@ -1,18 +1,18 @@
 # Pop Culture Quiz Game
 
 ## Overview
-A command line quiz game built with Python that tests your pop culture knowledge from the early 2000s.
+I built this command line quiz game using Python to test your early 2000s pop culture knowledge. This was one of my first Python projects built completely from scratch using the foundation I learned from my beginner course.
 
 ## Tools Used
 Python 3
 
 ## Concepts Applied
 - Dictionaries to store questions and answers
-- For loops to iterate through questions
-- User input with input()
-- String methods .lower() and .strip() for clean answer matching
-- Conditionals to check answers and display score messages
-- f-strings for formatted output
+- For loops to iterate through each question
+- User input to collect answers
+- String methods .lower() and .strip() to make answer matching flexible
+- Conditionals to check answers and keep score
+- f-strings for clean formatted output
 
 ## How To Run
 1. Clone the repo
@@ -21,6 +21,6 @@ Python 3
 
 ## Features
 - 5 pop culture questions
-- Case insensitive answer checking
-- Score tracking
-- Personalized final message based on score
+- Case insensitive answer checking so capitalization does not count against you
+- Score tracking throughout the game
+- Personalized final message based on how well you did
